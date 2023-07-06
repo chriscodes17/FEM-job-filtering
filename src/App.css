@@ -16,7 +16,7 @@ body {
 .header-banner {
   width: 100vw;
   height: 156px;
-  background: url("./images/bg-header-desktop.svg") #5ca5a5;
+  background: url("/images/bg-header-desktop.svg") #5ca5a5;
   margin-bottom: 50px;
 }
 
@@ -185,7 +185,7 @@ body {
   }
 
   .header-banner {
-    background: url("./images/bg-header-mobile.svg") #5ca5a5;
+    background: url("/images/bg-header-mobile.svg") #5ca5a5;
   }
 
   .jobs-container {
